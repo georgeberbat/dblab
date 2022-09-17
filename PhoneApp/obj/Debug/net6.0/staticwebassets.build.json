@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aLX5raXacSEQAD04VbPp1h3r5alSJuuRvQJ8Dsbwouc=",
+  "Source": "PhoneApp",
+  "BasePath": "_content/PhoneApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
